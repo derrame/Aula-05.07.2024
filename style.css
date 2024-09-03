@@ -1,0 +1,115 @@
+.holder{
+    display: block;
+    width: 500px;
+    height: 300px;
+    border:2px solid black;
+    margin-bottom: 10px;
+}
+#barra1{
+    display: block;
+    width: 500px;
+    height: 100px;
+    background-color: rgb(252, 252, 252);
+}
+#barra2{
+    display: block;
+    width: 500px;
+    height: 100px;
+    background-color: blue;
+}
+#barra3{
+    display: block;
+    width: 500px;
+    height: 100px;
+    background-color: rgb(255, 0, 0);
+}
+#barra4{
+    display: block;
+    width: 500px;
+    height: 100px;
+    background-color: rgb(132, 255, 60);
+}
+#barra5{
+    display: block;
+    width: 500px;
+    height: 100px;
+    background-color: rgb(255, 255, 255);
+}
+#barra6{
+    display: block;
+    width: 500px;
+    height: 100px;
+    background-color: rgb(77, 28, 255);
+}
+#barra7{
+    display: block;
+    width: 500px;
+    height: 100px;
+    background-color: rgb(255, 66, 60);
+}
+#barra8{
+    display: block;
+    width: 500px;
+    height: 100px;
+    background-color: rgb(255, 255, 255);
+}
+#barra9{
+    display: block;
+    width: 500px;
+    height: 100px;
+    background-color: rgb(56, 1, 255);
+}
+#barra10{
+    display: block;
+    width: 500px;
+    height: 100px;
+    background-color: rgb(255, 66, 60);
+}
+#barra11{
+    display: block;
+    width: 500px;
+    height: 100px;
+    background-color: rgb(255, 255, 255);
+}
+#barra12{
+    display: block;
+    width: 500px;
+    height: 100px;
+    background-color: rgb(18, 158, 0);
+}
+#barra13{
+    display: block;
+    width: 500px;
+    height: 100px;
+    background-color: rgb(255, 66, 60);
+}
+#barra14{
+    display: block;
+    width: 500px;
+    height: 100px;
+    background-color: rgb(255, 255, 255);
+}
+#barra15{
+    display: block;
+    width: 500px;
+    height: 100px;
+    background-color: rgb(0, 0, 0);
+}
+#barra16{
+    display: block;
+    width: 500px;
+    height: 100px;
+    background-color: rgb(60, 255, 102);
+}
+#barra17{
+    display: block;
+    width: 500px;
+    height: 100px;
+    background-color: rgb(251, 255, 0);
+}
+#barra18{
+    display: block;
+    width: 500px;
+    height: 100px;
+    background-color: rgb(29, 0, 158);
+}
